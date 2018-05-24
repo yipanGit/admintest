@@ -21,4 +21,7 @@ public class Test {
                 "name='" + name + '\'' +
                 '}';
     }
+    public void test(){
+        System.out.print("123");
+    }
 }
